@@ -1,7 +1,7 @@
 # NNLoc
 This is a CNN based model for microearthquake location by fusing waveform data and station location. 
 
-The field data is from NewBerry EGS microearthquake monitoring project [some backgrounds of this project](https://www.sciencedirect.com/science/article/pii/S0375650515001108).
+The field data is from NewBerry EGS microearthquake monitoring project ([some backgrounds of this project](https://www.sciencedirect.com/science/article/pii/S0375650515001108)).
 
 This project contains two main jupyter scripts, 'NewBerry_Raw2Input.ipynb' and 'DLmain_fieldData.ipynb'.
 
